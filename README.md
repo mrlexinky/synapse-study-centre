@@ -18,38 +18,25 @@ I built it to solve a problem I knew first-hand: revision tools are often good a
 
 The dashboard brings together current streak, weekly study time, upcoming examinations, subject-level confidence and the day's schedule.
 
-> **Screenshot placeholder**  
-> Add `assets/screenshots/dashboard.png`, then replace this block with:  
-> `![Synapse dashboard showing study statistics and subject progress](assets/screenshots/dashboard.png)`
+![Synapse dashboard showing study statistics, subject progress, activity, exam countdowns and weekly schedule](assets/screenshots/dashboard.jpg)
 
 ### 2. Adaptive study plan
 
 The planner allocates a time budget across scheduled subjects. It prioritises overdue spaced-repetition items and lower-confidence subtopics, avoids unnecessary repetition from recent sessions, and lets the student override or reorder the result.
 
-> **Screenshot placeholder**  
-> Add `assets/screenshots/study-plan.png`, then replace this block with:  
-> `![A generated Synapse study plan arranged into timed revision blocks](assets/screenshots/study-plan.png)`
+![A generated Synapse study plan arranged into timed revision blocks](assets/screenshots/study-plan.jpg)
 
 ### 3. Guided study session
 
 A session combines a persistent timer, warm-up questions drawn from previous mistakes, topic blocks, exam-style questions and end-of-block reflection. The student's rating feeds the next review interval.
 
-> **Screenshot placeholder**  
-> Add `assets/screenshots/study-session.png`, then replace this block with:  
-> `![A timed Synapse study session with an exam-style question](assets/screenshots/study-session.png)`
+**[Watch the Synapse product walkthrough](assets/demo/synapse-walkthrough.mov)** · MOV · 17 MB
 
 ### 4. Past-paper workflow
 
 Students can catalogue attempts, upload answer PDFs and mark schemes, record scores and traffic-light confidence, and keep short recap notes. The server-side marking flow verifies ownership before processing documents and validates model output before it is stored.
 
-> **Screenshot placeholder**  
-> Add `assets/screenshots/past-papers.png`, then replace this block with:  
-> `![Synapse past-paper grid with attempt scores and confidence colours](assets/screenshots/past-papers.png)`
-
-### Optional demo
-
-> **Video placeholder**  
-> Record a 45–90 second walkthrough, upload it to a stable host, and add the link here. Avoid showing names, email addresses, API keys or real study records.
+![Synapse past-paper grid with attempt scores and confidence colours](assets/screenshots/past-papers.jpg)
 
 ---
 
