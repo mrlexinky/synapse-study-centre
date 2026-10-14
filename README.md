@@ -140,8 +140,6 @@ For the authoritative references behind the qualification maps and technical dec
 
 Built and designed by **Oscar Horton**.
 
-> Add your preferred contact link here before sharing this repository on a CV: LinkedIn, portfolio site or professional email.
-
 ## Rights
 
 Copyright © 2026 Oscar Horton. All rights reserved. Third-party names and product marks belong to their respective owners. Synapse is an independent student project and is not affiliated with, endorsed by or sponsored by any examination board or technology provider.
